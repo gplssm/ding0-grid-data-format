@@ -5,9 +5,11 @@
 ## Reviewing CSV data format developed by Jonas
 
 ---
-@snap[midpoint span-60]
+@snap[north span-60]
 ### HV/MV Transformers
+@snapend
 
+@snap[south span-100 text-08]
 <table>
 <thead>
 <tr><th>name      </th><th>description                      </th><th>unit          </th></tr>
