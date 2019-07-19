@@ -1,4 +1,4 @@
-@snap[north span-100]
+@snap[north text-15 span-100]
 # A new data format for ding0 grid data
 @snapend
 
