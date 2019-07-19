@@ -6,7 +6,7 @@
 
 ---
 
-@snap[midpoint span-50]
+@snap[midpoint span-40]
 
 ### HV/MV Transformers
 
