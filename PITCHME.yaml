@@ -6,6 +6,7 @@
 # Doc: https://gitpitch.com/docs/settings/theme
 #
 theme : template
+theme-headline : [ "Raleway", "#1f567d", "none" ]
 
 #
 # Theme-Override Setting
