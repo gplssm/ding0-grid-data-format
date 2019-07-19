@@ -12,7 +12,7 @@
 ### lv_grid.json
 @snapend
 
-@snap[south span-100 text-04]
+@snap[midpoint span-100 text-04]
 <table>
 <thead>
 <tr><th>name       </th><th>description                                            </th><th>unit              </th></tr>
@@ -34,7 +34,7 @@
 ### versioning.json
 @snapend
 
-@snap[south span-100 text-04]
+@snap[midpoint span-100 text-04]
 <table>
 <thead>
 <tr><th>name       </th><th>description                      </th><th>unit          </th></tr>
@@ -52,7 +52,7 @@
 ### mv_generator.json
 @snapend
 
-@snap[south span-100 text-04]
+@snap[midpoint span-100 text-04]
 <table>
 <thead>
 <tr><th>name            </th><th>description                                                                                </th><th>unit          </th></tr>
@@ -78,7 +78,7 @@
 ### mv_grid.json
 @snapend
 
-@snap[south span-100 text-04]
+@snap[midpoint span-100 text-04]
 <table>
 <thead>
 <tr><th>name       </th><th>description                                             </th><th>unit              </th></tr>
@@ -100,7 +100,7 @@
 ### lv_generator.json
 @snapend
 
-@snap[south span-100 text-04]
+@snap[midpoint span-100 text-04]
 <table>
 <thead>
 <tr><th>name            </th><th>description                                                         </th><th>unit          </th></tr>
@@ -128,7 +128,7 @@
 ### mvlv_transformer.json
 @snapend
 
-@snap[south span-100 text-04]
+@snap[midpoint span-100 text-04]
 <table>
 <thead>
 <tr><th>name      </th><th>description                                        </th><th>unit       </th></tr>
@@ -152,7 +152,7 @@
 ### lv_load.json
 @snapend
 
-@snap[south span-100 text-04]
+@snap[midpoint span-100 text-04]
 <table>
 <thead>
 <tr><th>name       </th><th>description                                                                       </th><th>unit          </th></tr>
@@ -174,7 +174,7 @@
 ### line.json
 @snapend
 
-@snap[south span-100 text-04]
+@snap[midpoint span-100 text-04]
 <table>
 <thead>
 <tr><th>name     </th><th>description                                                                         </th><th>unit            </th></tr>
@@ -205,7 +205,7 @@
 ### lv_station.json
 @snapend
 
-@snap[south span-100 text-04]
+@snap[midpoint span-100 text-04]
 <table>
 <thead>
 <tr><th>name  </th><th>description                                        </th><th>unit       </th></tr>
@@ -225,7 +225,7 @@
 ### lv_branchtee.json
 @snapend
 
-@snap[south span-100 text-04]
+@snap[midpoint span-100 text-04]
 <table>
 <thead>
 <tr><th>name  </th><th>discription                                                              </th><th>unit          </th></tr>
@@ -245,7 +245,7 @@
 ### hvmv_transformer.json
 @snapend
 
-@snap[south span-100 text-04]
+@snap[midpoint span-100 text-04]
 <table>
 <thead>
 <tr><th>name      </th><th>description                      </th><th>unit          </th></tr>
@@ -268,7 +268,7 @@
 ### mv_branchtee.json
 @snapend
 
-@snap[south span-100 text-04]
+@snap[midpoint span-100 text-04]
 <table>
 <thead>
 <tr><th>name  </th><th>description                                                                </th><th>unit          </th></tr>
@@ -288,7 +288,7 @@
 ### mv_station.json
 @snapend
 
-@snap[south span-100 text-04]
+@snap[midpoint span-100 text-04]
 <table>
 <thead>
 <tr><th>name  </th><th>description                                               </th><th>unit          </th></tr>
@@ -308,7 +308,7 @@
 ### mv_circuitbreaker.json
 @snapend
 
-@snap[south span-100 text-04]
+@snap[midpoint span-100 text-04]
 <table>
 <thead>
 <tr><th>name  </th><th>description                      </th><th>unit          </th></tr>
@@ -329,7 +329,7 @@
 ### mvlv_mapping.json
 @snapend
 
-@snap[south span-100 text-04]
+@snap[midpoint span-100 text-04]
 <table>
 <thead>
 <tr><th>name        </th><th>description                                             </th><th>unit   </th></tr>
@@ -350,7 +350,7 @@
 ### mv_load.json
 @snapend
 
-@snap[south span-100 text-04]
+@snap[midpoint span-100 text-04]
 <table>
 <thead>
 <tr><th>name         </th><th>description                                                                               </th><th>unit          </th></tr>
