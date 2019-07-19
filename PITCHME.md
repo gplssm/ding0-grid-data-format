@@ -9,7 +9,7 @@
 ### HV/MV Transformers
 @snapend
 
-@snap[south span-100 text-08]
+@snap[south span-100 text-06]
 <table>
 <thead>
 <tr><th>name      </th><th>description                      </th><th>unit          </th></tr>
