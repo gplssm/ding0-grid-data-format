@@ -1,11 +1,13 @@
+@snap[north span-100]
 # A new data format for ding0 grid data
+@snapend
 
 ---
 
 ## Reviewing CSV data format developed by Jonas
 
 ---
-@snap[north span-60]
+@snap[north span-80]
 ### HV/MV Transformers
 @snapend
 
