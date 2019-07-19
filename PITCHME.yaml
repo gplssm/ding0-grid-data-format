@@ -12,7 +12,7 @@ theme-headline : [ "Raleway", "#1f567d", "none" ]
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override: assets/css/PITCHME.css
+theme-override: assets/css/ding0.css
 
 #
 # Logo Setting
