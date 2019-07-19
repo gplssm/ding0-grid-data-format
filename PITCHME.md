@@ -8,6 +8,7 @@
 
 ### HV/MV Transformers
 
+@snap[midpoint span-40]
 | name       | description                       | unit           |
 |------------|-----------------------------------|----------------|
 | id         | unambiguous unique numer          | integer        |
@@ -18,3 +19,4 @@
 | s_nom      | nominal apparent power as float   | kVA            |
 | x          | as float                          | Ohm            |
 | r          | as float                          | Ohm            |
+@snapend
